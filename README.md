@@ -7,6 +7,8 @@
  <a href="#">JavaScript</a> • 
 </p>
 
+![Thiago Marinho](https://i.pinimg.com/originals/cf/73/42/cf73427cdd07bb164adfde35bde43915.jpg)
+
  Algorithm fire DOOM
  
  Creator of my version @astracoder
